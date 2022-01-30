@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "aritmeticka posloupnost", "aritmeticka posloupnost\aritmeticka posloupnost.vcxproj", "{EEF1F553-FF41-4362-91AE-3019EED7DE56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF1F553-FF41-4362-91AE-3019EED7DE56}.Debug|x64.ActiveCfg = Debug|x64
+		{EEF1F553-FF41-4362-91AE-3019EED7DE56}.Debug|x64.Build.0 = Debug|x64
+		{EEF1F553-FF41-4362-91AE-3019EED7DE56}.Debug|x86.ActiveCfg = Debug|Win32
+		{EEF1F553-FF41-4362-91AE-3019EED7DE56}.Debug|x86.Build.0 = Debug|Win32
+		{EEF1F553-FF41-4362-91AE-3019EED7DE56}.Release|x64.ActiveCfg = Release|x64
+		{EEF1F553-FF41-4362-91AE-3019EED7DE56}.Release|x64.Build.0 = Release|x64
+		{EEF1F553-FF41-4362-91AE-3019EED7DE56}.Release|x86.ActiveCfg = Release|Win32
+		{EEF1F553-FF41-4362-91AE-3019EED7DE56}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7863EE3-D560-4FD0-893E-8A30C6F963DB}
+	EndGlobalSection
+EndGlobal
